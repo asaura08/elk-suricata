@@ -5,7 +5,7 @@ This Docker Compose configuration sets up an Elastic Stack environment, includin
 ## TL;DR
 
 ```bash	
-mv .env.example .env && docker-compose up -d
+mv example.env .env && docker-compose up -d
 ```
 https://localhost:5601
 
